@@ -17,3 +17,10 @@
   |-- docker-compose.yml
   |-- .dockerignore
 ```
+
+```
+$ docker-compose up
+
+$ docker-compose up --build
+
+```
