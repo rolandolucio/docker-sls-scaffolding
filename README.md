@@ -1,5 +1,6 @@
 # docker-sls-scaffolding
 
+```
 µS-project
   |-- containers-services
         |-- app-0
@@ -15,3 +16,4 @@
   |-- .git
   |-- docker-compose.yml
   |-- .dockerignore
+```
